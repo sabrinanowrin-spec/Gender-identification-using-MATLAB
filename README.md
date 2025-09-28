@@ -1,13 +1,10 @@
-# Gender-identification-using-MATLAB
+
 # -Gender-Identification-using-MATLAB
-This repository analyzes an audio file containing a human voice and estimates if the person is male or female based on frequency components.
 
-# Gender Identification from Voice (MATLAB)
+This MATLAB project analyzes an audio file containing a human voice and estimates if the person is male or female based on their frequency components.
+It takes audio as input, analyzes the time-domain and frequency-domain signals, and records the highest and lowest frequency magnitudes.
+By testing a number of audio files one by one, we can establish general frequency ranges for male and female voices.
 
-This project takes an audio file as input, analyzes its time-domain and frequency-domain signals, and records the highest and lowest frequency magnitudes.  
-By testing multiple audio files, general frequency ranges for male and female voices can be established.
-
----
 
 ## Features
 - **Audio Input**
